@@ -45,7 +45,8 @@
 
 ### 📣 Digital Marketing  
 - Telegram ADS  
-- Channel Optimization  
+- Channel Optimization
+- Facebook Professional Target (Ads Manager)
 
 ### 🎨 Graphic Editing  
 - Basic Photoshop  
