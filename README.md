@@ -85,7 +85,7 @@
 </div>
 
 - Phone: +998 90 705 87 76
-- Telegram: **@m511g**
+- Telegram: **m511g**
 - Email: **dtunukus@gmail.com**
 
 ---
