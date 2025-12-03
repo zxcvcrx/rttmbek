@@ -61,7 +61,30 @@
 <img src="https://skillicons.dev/icons?i=windows,linux,powershell,github,figma,kerio" />
 </div>
 
+## 📬 Connect with me
 
+<div align="left">
+
+<a href="https://t.me/m511g" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/nukuss" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="mailto:dtununus@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+<a href="https://github.com/zxcvcrx" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+<a href="https://instagram.com/xcvrzm" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+</a>
+</div>
+Contact
 ## 📞 +998 90 705 87 76
 
 - Telegram: **@m511g**
