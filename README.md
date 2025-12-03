@@ -60,7 +60,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux,powershell,github,figma,kerio" />
 </div>
----
+
 
 ## 📞 +998 90 705 87 76
 
