@@ -78,8 +78,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
-<a href="https://github.com/zxcvcrx" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 <a href="https://instagram.com/xcvrzm" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="40" />
