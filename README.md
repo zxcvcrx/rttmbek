@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/PC.gif" width="200"/>
 
-# Assalamu Alaykum! 👋
+# Assalawma Aleykum! 👋
 
-### I'm Uzakbergenov — Network & System Administrator from Uzbekistan
+### I'm Uzakbergenov — Network & System Administrator from Uzbekistan,Nukus
 
 </div>
 
