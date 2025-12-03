@@ -84,10 +84,8 @@
   <img src="https://skillicons.dev/icons?i=instagram" width="40" />
 </a>
 </div>
-## 
-Contact
-📞 +998 90 705 87 76
 
+- Phone: +998 90 705 87 76
 - Telegram: **@m511g**
 - Email: **dtunukus@gmail.com**
 
