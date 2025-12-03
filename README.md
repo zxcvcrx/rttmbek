@@ -63,9 +63,9 @@
 
 ## 📬 Connect with me
 
-<div align="left">
+<div align="center">
 
-<a href="https://t.me/m511g" target="_blank">
+<a href="https://t.me/@m511g" target="_blank">
   <img src="https://skillicons.dev/icons?i=telegram" width="40"/>
 </a>
 
@@ -84,8 +84,9 @@
   <img src="https://skillicons.dev/icons?i=instagram" width="40" />
 </a>
 </div>
+## 
 Contact
-## 📞 +998 90 705 87 76
+📞 +998 90 705 87 76
 
 - Telegram: **@m511g**
 - Email: **dtunukus@gmail.com**
