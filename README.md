@@ -44,7 +44,7 @@
 - PowerPoint  
 
 ### 📣 Digital Marketing  
-- Telegram ADS  
+- Telegram  ADS   
 - Channel Optimization
 - Facebook Professional Target (Ads Manager)
 
