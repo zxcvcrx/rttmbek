@@ -58,21 +58,8 @@
 ## 🚀 Tools I Use
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,git,github,photoshop,figma,excel" />
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,git,github,figma,excel" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
-</div>
-
 ---
 
 ## 📞 +998 90 705 87 76
