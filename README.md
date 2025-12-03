@@ -58,7 +58,7 @@
 ## 🚀 Tools I Use
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,git,github,figma,excel" />
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,github,figma,kerio" />
 </div>
 ---
 
